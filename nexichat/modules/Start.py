@@ -39,8 +39,8 @@ EMOJIOS = [
     "🤡",
     "👻",
     "🎃",
-    "🎩",
-    "🕊",
+    "🌷",
+    "🥰",
 ]
 
 BOT = "https://envs.sh/IL_.jpg"
